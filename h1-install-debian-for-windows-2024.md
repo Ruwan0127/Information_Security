@@ -18,18 +18,23 @@
    type : Linux
    debian version : 64-bit
    Skip Unattended Install
+
           
-![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/86bbe851-4580-4128-88d7-9adea4e03666)
+   ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/e03700d0-4d0a-471e-911e-3ebc7b456321)
+
 
 ### Hardware
    base memmory - 4096 MB
    cpu - 2
+
+   
    ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/df613484-8422-48f2-910a-dfc866104ec6)
 
 ### Hard Disk
   select create virtual hard disk now 
   size : 60 GB
   click finish
+
 
   ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/8a740425-fd19-4061-8869-1aa931cc7382)
 
