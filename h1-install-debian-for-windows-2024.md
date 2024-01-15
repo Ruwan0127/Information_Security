@@ -31,9 +31,10 @@
    ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/df613484-8422-48f2-910a-dfc866104ec6)
 
 ### Hard Disk
-  select create virtual hard disk now 
-  size : 60 GB
-  click finish
+  - select create virtual hard disk now
+  - choose suitable location
+  - size : 60 GB
+  - click finish
 
 
   ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/8a740425-fd19-4061-8869-1aa931cc7382)
