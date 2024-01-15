@@ -48,3 +48,13 @@
 
 
 
+### Now youcan use Linux 
+
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/cee37a41-9233-47e1-83fd-6b9993191ec2)
+
+
+- check mouse and keyboard by googling some topic
+
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/087b4cee-d063-49d8-8de4-f2ed2d97aa15)
+
+
