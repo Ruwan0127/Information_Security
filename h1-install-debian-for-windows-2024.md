@@ -9,8 +9,8 @@
 *https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe* and install it
 
 3. Open virtual box 7.0 and create new virtual machine
-- i). Select new
-- ii). Choose expert install
+   - i)  Select new
+   - ii) Choose expert install
 
 ### Name and operating system
    - name : select suitable name
