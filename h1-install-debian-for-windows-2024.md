@@ -40,10 +40,10 @@
   ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/8a740425-fd19-4061-8869-1aa931cc7382)
 
 
+### Now the virtual machine is created
 
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/1ecb0e99-e00e-48ea-ad29-ed50ccde5f8b)
 
-
-![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/a6938d38-583b-4bf8-9156-322c50e69a8e)
 
 
 
