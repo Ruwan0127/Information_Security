@@ -6,7 +6,7 @@ World is beautiful.I love plants and animals.
 
 World is beautiful.I love plants and animals.
 
-$ Is world
+$Is world
 plants animals
 
 ## Plants
