@@ -13,19 +13,19 @@
    ii) Choose expert install
 
 ### Name and operating system
-   name : select suitable name
-   iso image : downloaded iso file
-   type : Linux
-   debian version : 64-bit
-   Skip Unattended Install
+   - name : select suitable name
+   - iso image : downloaded iso file
+   - type : Linux
+   - debian version : 64-bit
+   - Skip Unattended Install
 
           
    ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/e03700d0-4d0a-471e-911e-3ebc7b456321)
 
 
 ### Hardware
-   base memmory - 4096 MB
-   cpu - 2
+   - base memmory - 4096 MB
+   - cpu - 2
 
    
    ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/df613484-8422-48f2-910a-dfc866104ec6)
