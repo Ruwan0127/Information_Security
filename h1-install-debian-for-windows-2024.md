@@ -37,7 +37,8 @@
   - click finish
 
 
-  ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/8a740425-fd19-4061-8869-1aa931cc7382)
+ ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/a31ee47b-ae8d-498f-a61f-d2f67925732e)
+
 
 
 ### Now the virtual machine is created
