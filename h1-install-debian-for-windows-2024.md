@@ -2,13 +2,16 @@
 
 ## Episode 01 - THE PHREAKY WORLD OF PBX HACKING
 
-- About raiding two hackers. 
+- About raiding two PBX hackers. 
 - They hack phones and call pay per minute numbers they own.
 - By hacking voicemail and Unsecure PBX
 - Victim has to pay the bill and no support from police as they aren't equiped 
 - PBX hacking is cost more than twenty billion dollars per annum
 
 
+
+# Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+   ## Eric M. Hutchins∗, Michael J. Cloppert†, Rohan M. Amin, Ph.D.‡Lockheed Martin Corporation
 
 
 # Install Debian on Virtual Box - 2024 January
