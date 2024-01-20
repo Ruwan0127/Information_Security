@@ -1,3 +1,16 @@
+# DARKNET DIARIES
+
+## Episode 01 - THE PHREAKY WORLD OF PBX HACKING
+
+- About raiding two hackers. 
+- They hack phones and call pay per minute numbers they own.
+- By hacking voicemail and Unsecure PBX
+- Victim has to pay the bill and no support from police as they aren't equiped 
+- PBX hacking is cost more than twenty billion dollars per annum
+
+
+
+
 # Install Debian on Virtual Box - 2024 January
 
 ## Steps
