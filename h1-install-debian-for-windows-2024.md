@@ -99,6 +99,62 @@ Select Zone as - Europe, Helsinki
 
 
 
+## Now you are in
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/52416407-499e-4f57-ad39-eb8c6fd81161)
+
+
+### First Steps
+Open the terminal: Applications: Terminal Emulator.
+And type: sudo apt-get update press enter
+
+Then enter the password and press enter
+
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/d4f6f9ff-6781-4c7a-b48a-94090a0ecb7c)
+
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/25151783-cee3-4a11-8467-b9ba5756ff0d)
+
+### Upgrade everything.Latest versions for this Debian, Security updates, Command line apps, Desktop apps, Servers,
+
+Type sudo apt-get -y dist-upgrade and press enter
+
+Install a firewall and turn it on.
+    - Type: sudo apt-get -y install ufw and preess enter
+    - Type: sudo ufw enable and preess enter
+
+And reboot. On top-left "Applications" menu: Log out: Restart.
+
+After the reboot, log in.
+
+Now your Linux has the latest security updates, and it's protected by a firewall.
+
+## Install Guest Additions for Good Resolution 
+
+Virtual Desktop is Too Small so the Solution is VirtualBox Guest Additions
+
+- From the "Devices" menu: "Insert Guest Additions CD image...". If prompted to download it, accept the download.
+- Go to Applications: File Manager. To mount the CDROM, click on the CDROM icon on the left "VBox_GAs...".
+- Open Applications: Terminal Emulator. Remember not to type the prompt "$" below.
+- Change to the directory of guest additions CDROM, and list the files in it.
+
+Type : cd /media/*/VBox* and press enter
+Type: ls and press enter
+
+Run the installer script, type: sudo bash VBoxLinuxAdditions.run and press enter
+Then click Applications: Log out. Click "Restart".
+Now we have a big desktop, with good resolution.
+
+![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/039633e6-2cea-4551-9465-c363f89645cb)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
