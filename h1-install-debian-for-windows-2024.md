@@ -53,12 +53,12 @@
 ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/cee37a41-9233-47e1-83fd-6b9993191ec2)
 
 
-### check mouse and keyboard by googling some topic
+### Check mouse and keyboard by googling some topic
 
 ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/087b4cee-d063-49d8-8de4-f2ed2d97aa15)
 
 
-### Installing 
+### Launch installer 
 ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/15d9867d-039d-4a8f-b1d1-2de8c6f9863f)
 
 
@@ -69,7 +69,7 @@ Select Zone as - Europe, Helsinki
 
 
 
-### Install finnish keyboard
+### Select finnish keyboard
 
 ![image](https://github.com/Ruwan0127/rumarkdown/assets/144318600/b27a7307-fc43-45d7-af24-61bc9f422923)
 
