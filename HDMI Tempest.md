@@ -1,6 +1,6 @@
 # Don't mind the air gap - Maximizing exfiltration speeds via HDMI TEMPEST - windytan
 
-The research project "HDMI Tempest," which looked into the possibilities of using HDMI cables' accidental radio emissions to convey data, was covered in the presentation. 
+The research project "HDMI Tempest" which looked into the possibilities of using HDMI cables' accidental radio emissions to convey data, was covered in the presentation. 
 
 ## HDMI Tempest: 
 - The study found that the weak radio signals that the HDMI cable emits can leak information that is presented on a screen. 
