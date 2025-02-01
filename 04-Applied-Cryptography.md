@@ -59,6 +59,8 @@ The original, unencrypted message is represented by symbols like M or P. It can 
 - Usually used without a key for open verification; however, limited access to verification is possible when using a key.
 
 
+
+
 # Disobey 2023 conference
 
 ## Cyber Security is everyone's business - Lotta Sandroos
