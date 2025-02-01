@@ -5,7 +5,9 @@
 # Self Learning
 
 
-## Languages
+
+
+## - Languages
 
 ### Pyton
 
@@ -13,7 +15,8 @@
 
 
 
-## Tools
+
+## - Tools
 
   ### Burp Suite: 
   
