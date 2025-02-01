@@ -24,6 +24,8 @@
   
   ### Wireshark: 
 
+  ### Netcat
 
+  ### Nmap
 
 
