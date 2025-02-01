@@ -16,7 +16,7 @@ I invite you to follow my work. Cheers !!!
 
 6. https://github.com/Ruwan0127/Information_Security/blob/main/05-TOR-Browser-Anonymity.md
 
-7. https://github.com/Ruwan0127/Information_Security/blob/main/HDMI-Tempest.md
+7. https://github.com/Ruwan0127/Information_Security/blob/main/06-HDMI-Tempest.md
 
 
 ![image](https://github.com/user-attachments/assets/ecd04ab9-bc76-4ee4-99fd-360a1d8da1c2)
