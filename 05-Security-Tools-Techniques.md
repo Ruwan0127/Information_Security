@@ -1,31 +1,3 @@
-# Schneier 2015: Applied Cryptography
-
-## Oneway Functions
-
-- Essential components of many protocols and the foundation of public-key cryptography.
-- Rather simple to calculate but far more difficult to reverse.
-- It is simple to calculate f(x) given x, but it is dificult to compute x given f(x) (⁰).
-- Although many functions seems to be one-way, there is no mathematical evidence for the existence of one-way functions.
-- For instance, computing ⁛ 2 x 2 in a finite field is simple, whereas computing ⁛ 1 / 2 x 1/2 is considerably more difficult.
-- Cannot be used directly for encryption since messages that are encrypted cannot be decoded.
-
-- Unique kind of one-way function featuring a concealed trapdoor.
-- Without the secret, it is simple to compute in one direction but difficult in the other.
-- The function may be computed in the opposite direction with ease if you know the trick.
-- As an illustration, disassemble and reassemble a watch.
-- It is simple to disassemble (in one direction), but reassembling it without instructions is challenging. Reassembling is much simpler using the hidden instructions.
-
-## One way hash functions
-
-- Also known  as fingerprint, message digest, cryptographic checksum, compression function, contraction function, message integrity check (MIC), and modification detection code (MDC).
-- Essential to contemporary cryptography and a fundamental component of numerous protocols.
-- Transforms the pre-image variable-lenth input string into the hash value, a fixed-length (smaller) output string.
-- Used to identify whether a prospective pre-image is likely to be identical to the original pre-image and to fingerprint the pre-image.
-- It is simple to calculate a hash value from a pre-image using a one-way hash function, but it is difficult to create a pre-image that hashes to a specific value.
-- Two pre-images with the same hash value are difficult to produce when using good one-way hash metods since they are collision-free.
-- Because the output of a one-way hash function is one-way and does not depend on the input in any noticeable way, it is considered secure.
-- Helpful for data integrity verification and fingerprinting files without disclosing the actual data.
-- Usually used without a key for open verification; however, limited access to verification is possible when using a key.
 
 # Cracking password with Hashcat
 
