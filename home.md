@@ -4,7 +4,7 @@ Hello everyone. These are the assignments I did for Information Security 2024 wi
 
 I invite you to follow my work. Cheers !!!
 
-1. https://github.com/Ruwan0127/Information_Security/blob/main/h1-2024.md
+1. https://github.com/Ruwan0127/Information_Security/blob/main/01-Introduction-to-Cybersecurity.md
 
 2. https://github.com/Ruwan0127/Information_Security/blob/main/h2-2024.md
 
